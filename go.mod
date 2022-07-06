@@ -1,4 +1,4 @@
-module gontribute
+module github.com/YuyaAbo/gontribute
 
 go 1.18
 
